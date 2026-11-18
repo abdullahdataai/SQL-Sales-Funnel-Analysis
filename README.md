@@ -1,51 +1,42 @@
-# SQL Sales Funnel Analysis
+# E-Commerce Sales Funnel | SQL Analytics
 
-## Project Overview
+> SQL Server analysis of customer journeys, conversion, traffic sources, revenue, and products.
 
-This project analyzes e-commerce customer behavior using SQL Server and SQL Server Management Studio (SSMS).
+**Stack:** SQL · Microsoft SQL Server · SSMS · Business Analytics
 
-The objective is to understand customer journeys, evaluate funnel performance, measure conversion rates, analyze marketing channels, and generate business insights.
+## Questions explored
+- How many users progress through funnel stages?
+- What are the conversion rates?
+- Which traffic sources drive conversions?
+- What revenue and average order value can be measured?
+- Which products and customers contribute most?
 
-## Tools Used
+## Repository guide
+- `SQLQuery*.sql` — analysis queries
+- `Screenshot*.png` — workflow screenshots
+- [License](LICENSE)
 
-- SQL Server
-- SQL Server Management Studio (SSMS)
-- SQL
-- GitHub
+## Methods
+SQL joins · CTEs · Aggregations · `CASE` · Funnel Analysis
 
-## Project Structure
+## Suggested workflow
+1. Review the source tables.
+2. Inspect the SQL scripts.
+3. Execute queries in a compatible SQL Server test environment.
+4. Verify output counts and business metrics.
+5. Compare results with the screenshots.
 
-- Data Exploration
-- Funnel Analysis
-- Conversion Rate Analysis
-- Traffic Source Analysis
-- Revenue Analysis
-- Product Analysis
-- Customer Analysis
+## Limitations
+A complete schema, dataset setup guide, and independently verified results summary are not yet included. Query filenames are auto-generated and should be renamed by analysis stage in a later change.
 
-## Key Business Questions
 
-- How many users progress through each funnel stage?
-- What are the conversion rates between stages?
-- Which traffic source generates the highest conversions?
-- What is the total revenue generated?
-- What is the average order value?
-- Which products perform best?
-- Who are the highest-value customers?
+## Screenshots from the SQL workflow
 
-## Skills Demonstrated
+![SQL analysis screenshot 1](Screenshot%202026-05-30%20133425.png)
 
-- SQL Queries
-- CTEs
-- Aggregations
-- CASE Statements
-- Business Analytics
-- Funnel Analysis
-- Revenue Analysis
-- Data Exploration
+![SQL analysis screenshot 2](Screenshot%202026-05-30%20133531.png)
+
+![SQL analysis screenshot 3](Screenshot%202026-05-30%20133635.png)
 
 ## Author
-
-Abdullah Abduljabbar Mohammed Othman
-
-AI Student | Data Analytics Enthusiast
+[abdullahdataai](https://github.com/abdullahdataai)
