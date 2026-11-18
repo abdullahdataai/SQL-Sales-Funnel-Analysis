@@ -29,5 +29,14 @@ SQL joins · CTEs · Aggregations · `CASE` · Funnel Analysis
 ## Limitations
 A complete schema, dataset setup guide, and independently verified results summary are not yet included. Query filenames are auto-generated and should be renamed by analysis stage in a later change.
 
+
+## Screenshots from the SQL workflow
+
+![SQL analysis screenshot 1](Screenshot%202026-05-30%20133425.png)
+
+![SQL analysis screenshot 2](Screenshot%202026-05-30%20133531.png)
+
+![SQL analysis screenshot 3](Screenshot%202026-05-30%20133635.png)
+
 ## Author
 [abdullahdataai](https://github.com/abdullahdataai)
